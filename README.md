@@ -8,3 +8,6 @@ Deletes the folder containing the file.
 
 ### MouseMove
 Describes square movements with the mouse until you stop it on the console.
+
+### AsdwMove
+Describes square movements with the asdw keys until you stop it on the console.
